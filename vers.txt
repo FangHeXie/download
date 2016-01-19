@@ -1,1 +1,1 @@
-2.6||http://xunlei.crsky.com/201111/wlfy-v2.5.zip
+2.6||https://github.com/FangHeXie/download/blob/master/update.rar?raw=true
