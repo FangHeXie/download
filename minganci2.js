@@ -102,6 +102,6 @@ function generateSeparator(type){
   try{ $("separator1").value = separator; //回显分隔符 迷你模式
   }catch(e){}
 }
-document.writeln("<div id=\"loading1\" style=\"display:none\"><span class=\"txt_hui\">(当前收录<span id=\"word_number\"><\/span>个敏感词 更新时间：11月13日)<\/span><\/div>")
+document.writeln("<div id=\"loading1\" style=\"display:none\"><span class=\"txt_hui\">(当前收录<span id=\"word_number\"><\/span>个敏感词 更新时间：1月19日)<\/span><\/div>")
 /* 此文件程序代码部分现由网友CHurricane编写 */
 document.getElementById('ciku_load').style.visibility='hidden'; //隐藏敏感词过滤“载入中”
