@@ -1,4 +1,4 @@
-﻿﻿   var preContent = "";  //保存文本框原内容
+﻿   var preContent = "";  //保存文本框原内容
    var separator = "";  //分隔符
    var content = "";
    
