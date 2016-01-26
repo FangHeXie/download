@@ -1,1 +1,1 @@
-2.6||https://github.com/FangHeXie/download/blob/master/update.rar?raw=true
+2.61||https://github.com/FangHeXie/download/blob/master/update.rar?raw=true
